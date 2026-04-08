@@ -1,4 +1,4 @@
-#Наш крутой проект
+# Наш крутой проект
 
 biggest claude code slop ever
 
