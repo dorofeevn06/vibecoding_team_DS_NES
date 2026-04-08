@@ -2,7 +2,7 @@
 
 biggest claude code slop ever
 
-Тема:
+Тема: Применение ии слопов в Data Science
 
 
 Авторы: Никита и Артур
