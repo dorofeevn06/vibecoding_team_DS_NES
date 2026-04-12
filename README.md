@@ -1,6 +1,6 @@
 # Наш крутой проект
 
-biggest claude code slop ever
+The biggest claude code slope ever
 
 # Тема:
 
