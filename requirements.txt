@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+requests
+beautifulsoup4
+pandas
+numpy
+plotly
+dash
+overpy
